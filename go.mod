@@ -1,4 +1,4 @@
-module github.com/ory/keto
+module github.com/adamplansky/keto
 
 require (
 	cloud.google.com/go v0.37.2 // indirect
